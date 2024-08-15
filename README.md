@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mevlüt Akif Yılmaz</h1>
+<h3 align="center">A passionate junior developer from Türkiye</h3>
+
 
 ![Profil Resmi](./images/profile_picture.jpeg)
-
-<h3 align="center">A passionate junior developer from Türkiye</h3>
 
 - 📫 How to reach me **yilmaz.akif2525@gmail.com**
 
