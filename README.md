@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mevlüt Akif Yılmaz</h1>
-<h3 align="center">A passionate junior developer from Türkiye</h3>
+<h3 align="center">Coding is learned by writing code...</h3>
 
 
 ![Profil Resmi](./images/profile_picture.jpeg)
