@@ -14,6 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mevlutayilmaz&show_icons=true&locale=en&layout=compact" alt="mevlutayilmaz" /></p>
 
-
-
-![snake gif](https://github.com/mevlutayilmaz/mevlutayilmaz/blob/output/github-contribution-grid-snake.gif)
