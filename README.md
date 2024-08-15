@@ -1,3 +1,5 @@
+![Profil Resmi](./images/profile_picture.jpeg)
+
 <h1 align="center">Hi 👋, I'm Mevlüt Akif Yılmaz</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
